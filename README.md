@@ -1,7 +1,7 @@
 ### Hello, my names Chris 👋
 
 - 🧑🏻‍💻 I’m currently working at [Lexicon Digital](https://www.lexicon.com.au/)
-- 🌱 I’m currently focused on React Frontend Development and learning Kotlin to improve my backend development
+- 🌱 I’m currently focused on learning about ReactJS and Kotlin
 - 📫 How to reach me: [@dalziel_chris](https://twitter.com/dalziel_chris)
 - 📋 Maybe I'll write some blogs [here](https://christopherdalziel.medium.com/)
 
