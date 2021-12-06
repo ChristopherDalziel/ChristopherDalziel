@@ -2,7 +2,7 @@
 
 - 🧑🏻‍💻 I’m currently working at [IOOF](https://www.linkedin.com/company/ioof/)
 - 🌱 I'm writing a lot of front-end code in React
-- 🤔 I'm working towards becoming more of a 'fullstack developer' so I'm trying to learn more about Backend development amongst other things
+- 🤔 I'm wanting to learn more about back-end development
 - 📫 How to reach me: [@dalziel_chris](https://twitter.com/dalziel_chris)
 - 📋 Maybe I'll write some blogs [here](https://christopherdalziel.medium.com/)
 
